@@ -1,0 +1,23 @@
+body {
+    background-color: #000;
+    color: #00ff00;
+    font-family: 'Courier New', monospace;
+}
+
+a {
+    color: #00ffcc;
+}
+
+code {
+    background-color: #111;
+    color: #0f0;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+pre {
+    background-color: #111;
+    padding: 10px;
+    border-radius: 8px;
+    overflow-x: auto;
+}

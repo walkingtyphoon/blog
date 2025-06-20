@@ -1,0 +1,28 @@
+title: Typhoon's Blog
+description: "A blog about C++, clean code, and life."
+author: Walking Typhoon
+email: walkingtyphoon@gmail.com
+
+# GitHub Pages 默认支持的主题（也可自定义）
+theme: minima
+
+# 网站的根路径（如果你部署在子路径下）
+baseurl: "" # 比如 "/blog" 就写 "/blog"
+url: "https://walkingtyphoon.github.io" # 你的 GitHub Pages URL
+
+# markdown 引擎
+markdown: kramdown
+highlighter: rouge
+
+# permalink 设置
+permalink: /:year/:month/:day/:title/
+
+# 导航菜单可在这里自定义（配合模板使用）
+# nav:
+#   - name: Home
+#     link: /
+#   - name: About
+#     link: /about
+
+# 发布设置
+future: true
